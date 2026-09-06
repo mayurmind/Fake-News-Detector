@@ -1,0 +1,6 @@
+{
+  "name": "Fake News Detector",
+  "description": "AI-powered credibility analyzer for news articles featuring sentiment scoring, bias evaluation, and trusted source verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
